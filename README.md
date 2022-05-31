@@ -10,8 +10,8 @@ Simple fake account generator that is made completely in python with built-in pa
 ---
 
 ## Install Required Packages:
- - (Yaml) `python -m pip install pyyaml -y`
- - (random) `python -m pip install random -y`
+ - (Yaml) `python -m pip install pyyaml`
+ - (random) `python -m pip install random`
 
 ---
 

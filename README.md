@@ -9,6 +9,12 @@ Simple fake account generator that is made completely in python with built-in pa
 
 ---
 
+## Install Required Packages:
+ - (Yaml) `python -m pip install pyyaml -y`
+ - (random) `python -m pip install random -y`
+
+---
+
 ## Join Our Socials: 
 
  - ["Android Hacker PH On Facebook"](https://www.facebook.com/groups/1778790372291663)

@@ -4,8 +4,8 @@ Simple fake account generator that is made completely in python with built-in pa
 ---
 
 ## Notes Before Use:
- - This tool is created ONLY for educational pourposes only
- - I Am Not Responsible For Any Kind Of Reliable Lawsuits And Damages On What You Did Caused By The Wrong Use Of This Tool!!! It Is Up For The Person Who Used My Code On Any Bad Purposes Or NOT Intended Use Of My Tool (My Code, Your Shits)
+ - This tool is created for educational pourposes only. 
+ - I Am Not Responsible For Any Kind Of Reliable Lawsuits And Damages On What You Did Caused By The Wrong Use Of This Tool!!! It Is Up For The Person Who Used My Code On Any Bad Purposes Or NOT Intended Use Of My Tool (My Code, Your Shits).
 
 ---
 
